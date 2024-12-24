@@ -1,4 +1,4 @@
-### README.md
+Here’s the fixed markdown for the `README.md`:
 
 ```markdown
 # RafflePress to Google Sheets - Free Node.js Integration for Giveaway Automation
@@ -28,7 +28,7 @@ Perfect for anyone running RafflePress giveaways who wants a streamlined way to 
 2. Create a new project.
 
 ### Step 2: Paste the Script Code
-Replace the default content in the editor with the following script (same as rafflepressEndpoint.GS):
+Replace the default content in the editor with the following script (same as `rafflepressEndpoint.GS`):
 
 ```javascript
 function doPost(e) {
@@ -72,15 +72,10 @@ function doPost(e) {
    - **Who has access**: Select `Anyone` if RafflePress needs to send data without requiring authentication.
 4. Deploy and copy the generated URL.
 
-
-
 If everything is set up correctly, the data will be added to your Google Sheet.
-
----
-
 
 ---
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
-```
+``` 
